@@ -1,0 +1,33 @@
+.container {
+  padding: 0 1rem;
+  margin-left: 20%;
+  margin-right: 20%;
+  background-color: #4b2e83;
+}
+
+.main {
+  padding-top: 2rem; /* Add padding to move title lower */
+}
+
+.title {
+  margin: 0;
+  margin-bottom: 1rem;  /* Reduced margin to move title lower */
+  line-height: 1.15;
+  font-size: 4rem;
+  font-weight: bold;
+}
+
+.description,
+.info {
+  margin: 1rem 0;  /* Reduced margin between paragraphs */
+  line-height: 1.5;
+  font-size: 1.25rem;
+}
+
+@media only screen and (max-width: 600px) {
+  .container {
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+}
+
