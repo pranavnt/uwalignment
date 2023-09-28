@@ -30,11 +30,14 @@ export default function Home() {
         </p>
   
         <p className={styles.info}>
-          We also run a beginner-friendly reading group covering recent AI safety papers and relevant background material.
+        We also run a beginner-friendly reading group covering foundational topics in AI safety
         </p>
 
         <p className={styles.info}>
-          <a href="https://docs.google.com/forms/d/e/1FAIpQLSfNM8QiyLTALhbW9haEU_RXf8qnCdCrTSsSIaePHMU5VX7nFQ/viewform?usp=sf_link" style={{color: "#b7a57a", textDecoration: "underline"}}>Express interest</a>.
+          Express interest <a href="https://docs.google.com/forms/d/e/1FAIpQLSfNM8QiyLTALhbW9haEU_RXf8qnCdCrTSsSIaePHMU5VX7nFQ/viewform?usp=sf_link" style={{color: "#b7a57a", textDecoration: "underline"}}>here</a> and you can join our Discord at <a href='https://discord.gg/m7Egw5uc8' style={{color: "#b7a57a", textDecoration: "underline"}}>discord.gg/m7Egw5uc8</a>.
+        </p>
+        <p className={styles.info}>
+        Feel free to send questions to <a href="mailto:dury@uw.edu" style={{color: "#b7a57a", textDecoration: "underline"}}>dury@uw.edu</a>
         </p>
       </main>
     </div>
