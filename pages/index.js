@@ -23,7 +23,7 @@ export default function Home() {
         </p>
         
         <p className={styles.info}>
-        We run a quarterly research program where members conduct technical AI safety research, focusing on areas including mechanistic interpretability and machine honesty We will be working closely with the {" "}
+        We run a quarterly research program where members conduct technical AI safety research, focusing on areas including mechanistic interpretability and machine honesty. We will be working closely with the {" "}
           <a href="https://www.eleuther.ai/interpretability" style={{color: "#b7a57a", textDecoration: "underline"}}> 
            EleutherAI interpretability team
           </a>.
