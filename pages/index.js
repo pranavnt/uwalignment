@@ -34,7 +34,7 @@ export default function Home() {
         </p>
 
         <p className={styles.info}>
-          <a href="#" style={{color: "#b7a57a", textDecoration: "underline"}}>Express interest</a>.
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLSfNM8QiyLTALhbW9haEU_RXf8qnCdCrTSsSIaePHMU5VX7nFQ/viewform?usp=sf_link" style={{color: "#b7a57a", textDecoration: "underline"}}>Express interest</a>.
         </p>
       </main>
     </div>
